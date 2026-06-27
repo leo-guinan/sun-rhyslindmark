@@ -1,0 +1,382 @@
+{
+  "id": "sun-rhyslindmark",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@rhyslindmark Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_7ba8370f273e",
+    "display_name": "rhyslindmark",
+    "user_id": "@rhyslindmark",
+    "description": "Community Archive-derived proof-of-search sun for @rhyslindmark.",
+    "document_count": 15378,
+    "word_count": 327876,
+    "active_days": 2085,
+    "emissions": [
+      "Good",
+      "See",
+      "New",
+      "Here",
+      "Great",
+      "Think"
+    ],
+    "generated_at": "2026-06-27T17:06:00.098687+00:00",
+    "color": "#f59e0b",
+    "mass": 12.7
+  },
+  "planets": [
+    {
+      "id": "planet_b419784dc71c",
+      "name": "Good",
+      "summary": "Archive cluster around good: 12215 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "now",
+        "should",
+        "crypto",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e3beb713b98f",
+          "title": "Good receipt from 2020-03-23",
+          "excerpt": "Everybody's @waitbutwhy \"Life in Weeks\" graph be like https://t.co/ryPpbBuD7c",
+          "source_document_id": "1242146130395201537",
+          "timestamp": "2020-03-23T17:48:10+00:00",
+          "url": "https://x.com/rhyslindmark/status/1242146130395201537",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, should, crypto."
+        },
+        {
+          "id": "art_d9b0097ef411",
+          "title": "Good receipt from 2020-04-29",
+          "excerpt": "@kevin2kelly This one is my favorite:\n\n\"When someone is nasty, rude, hateful, or mean with you, pretend they have a disease. That makes it easier to have empathy toward them which can soften the conflict.\"\n\nReminds me of this parable from Tara Brach. https://t.co/ZwF4oFEi3q",
+          "source_document_id": "1255307961389535233",
+          "timestamp": "2020-04-29T01:28:35+00:00",
+          "url": "https://x.com/rhyslindmark/status/1255307961389535233",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, should, crypto."
+        },
+        {
+          "id": "art_42041835f5e5",
+          "title": "Good receipt from 2018-05-10",
+          "excerpt": "A surprising/nostalgic list about \"the state of crypto\" at NYC Blockchain Week last year:\n\n1/ Total crypto market cap was only $50B.",
+          "source_document_id": "994627078174724096",
+          "timestamp": "2018-05-10T17:15:49+00:00",
+          "url": "https://x.com/rhyslindmark/status/994627078174724096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, should, crypto."
+        },
+        {
+          "id": "art_b51969cb2baa",
+          "title": "Good receipt from 2018-09-24",
+          "excerpt": "1/3 Excited to join @medialab's Digital Currency Initiative as the Head of Community and Long-Term Societal Impact! \n\nI feel deeply aligned with their mission and I'm excited to work with: @neha @tdryja @MadarsV @RoblehAli @gertjaap @alinsdragos @Joi\n\nhttps://t.co/9wNYxjHtKX",
+          "source_document_id": "1044367702431870977",
+          "timestamp": "2018-09-24T23:27:18+00:00",
+          "url": "https://x.com/rhyslindmark/status/1044367702431870977",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, should, crypto."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7c40cfbb35b3",
+      "proof_score": 1,
+      "mass": 37.195,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_788e8953961e",
+      "name": "See",
+      "summary": "Archive cluster around see: 865 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "see",
+        "here",
+        "great",
+        "love",
+        "energy"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3d7e0f337e20",
+          "title": "See receipt from 2022-04-11",
+          "excerpt": "Software is eating the world.\nWeb3 will eat cities. \n\nCome learn about this and more at Graph Day on June 2 in SF! Would love to see you there. https://t.co/zg2GzWzOLL",
+          "source_document_id": "1513645462489743363",
+          "timestamp": "2022-04-11T22:29:35+00:00",
+          "url": "https://x.com/rhyslindmark/status/1513645462489743363",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, here, great, love."
+        },
+        {
+          "id": "art_f05ec33c298a",
+          "title": "See receipt from 2018-07-29",
+          "excerpt": "9/ If you'd like to learn more (or want to do different kinds of Game Theory Dark Arts!), see this @slatestarcodex article.\n\ncc'ing folks who I think would enjoy this thread @PoWH3D @simondlr, @trentmc0, @yanroux, @stefanobernardi, @delitzer, @Iiterature \n\nhttps://t.co/93Sw4CJyJY",
+          "source_document_id": "1023657038080077824",
+          "timestamp": "2018-07-29T19:50:31+00:00",
+          "url": "https://x.com/rhyslindmark/status/1023657038080077824",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, here, great, love."
+        },
+        {
+          "id": "art_55af8ecabceb",
+          "title": "See receipt from 2018-05-10",
+          "excerpt": "I'm not claiming any clear takeaways—just observations to provide texture. \n\nSee you there this year! (Ping me if you'd like to meet up at Consensus or Token Summit.)",
+          "source_document_id": "994627093425213442",
+          "timestamp": "2018-05-10T17:15:53+00:00",
+          "url": "https://x.com/rhyslindmark/status/994627093425213442",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, here, great, love."
+        },
+        {
+          "id": "art_7890cae43c01",
+          "title": "See receipt from 2019-10-14",
+          "excerpt": "I went on a weekend trip to New Hampshire to see the leaves change.\n\nOne nice meditative exercise: gaze into woods and watch the leaves fall. \n\nTwitter poll (below): On average, how often do you see a leaf fall? https://t.co/67JaXtuSSA",
+          "source_document_id": "1183892570352607232",
+          "timestamp": "2019-10-14T23:49:19+00:00",
+          "url": "https://x.com/rhyslindmark/status/1183892570352607232",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, here, great, love."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_139fe6333d20",
+      "proof_score": 1,
+      "mass": 30.473,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_ca20d416a988",
+      "name": "New",
+      "summary": "Archive cluster around new: 628 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "new",
+        "crypto",
+        "here",
+        "great",
+        "cool"
+      ],
+      "artifacts": [
+        {
+          "id": "art_eae674f1b953",
+          "title": "New receipt from 2018-01-06",
+          "excerpt": "New interview with @vigsun from @lendroidproject! He'll be at #ETHDenver (https://t.co/Z4VQCqqilE) Feb 16-18 with a great @0xProject crew (@DharmaProtocol, @SetProtocol @RadarRelay).\n\nhttps://t.co/2ht8EXumWl",
+          "source_document_id": "949490330826547200",
+          "timestamp": "2018-01-06T03:58:30+00:00",
+          "url": "https://x.com/rhyslindmark/status/949490330826547200",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, crypto, here, great."
+        },
+        {
+          "id": "art_5d7d799db292",
+          "title": "New receipt from 2017-12-14",
+          "excerpt": "\"In the face of massive converging technological change, we need to create a new antifragile system that internalizes externalities.\" #ETHCommons \n\n#Ethereum #SystemsThinking #PlatformCoop\n\nhttps://t.co/SK3lsuLpk1",
+          "source_document_id": "941095501784428545",
+          "timestamp": "2017-12-14T00:00:26+00:00",
+          "url": "https://x.com/rhyslindmark/status/941095501784428545",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, crypto, here, great."
+        },
+        {
+          "id": "art_c9e9385f1cac",
+          "title": "New receipt from 2018-07-22",
+          "excerpt": "1/1 Tweet thread from @NECSI's (New England Complex Systems Institute) annual conference, #ICCS2018. \n\n@stephen_wolfram remembers the founding of modern complexity science in the 80s when his physics toolkit wasn't able to explain certain fluid dynamics.",
+          "source_document_id": "1021160729062313985",
+          "timestamp": "2018-07-22T22:31:04+00:00",
+          "url": "https://x.com/rhyslindmark/status/1021160729062313985",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, crypto, here, great."
+        },
+        {
+          "id": "art_30f32fe60d47",
+          "title": "New receipt from 2017-11-21",
+          "excerpt": "Delicious podcast with @licuende from @AragonProject, where we discuss the #Ethereum Commons, #crypto-Millennials, and new kinds of trust. Enjoy! \n\nfeat. @santimentfeed @RocketChat \nhttps://t.co/d0Tvm7Kdn8",
+          "source_document_id": "933118982264991745",
+          "timestamp": "2017-11-21T23:44:36+00:00",
+          "url": "https://x.com/rhyslindmark/status/933118982264991745",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, crypto, here, great."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b982b539af7f",
+      "proof_score": 0.994,
+      "mass": 29.12,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_e97048565278",
+      "name": "Here",
+      "summary": "Archive cluster around here: 612 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "here",
+        "thanks",
+        "should",
+        "other",
+        "book"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9154126c9310",
+          "title": "Here receipt from 2018-07-29",
+          "excerpt": "1/ #Fomo3d is a variant on a well-studied game theory problem called \"entrapment\". \n\nThis is just the start of \"Game Theory As A Dark Art.\"\n\nHere's what we can learn from it 👇",
+          "source_document_id": "1023657025648119808",
+          "timestamp": "2018-07-29T19:50:28+00:00",
+          "url": "https://x.com/rhyslindmark/status/1023657025648119808",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, thanks, should, other."
+        },
+        {
+          "id": "art_c0e3ea365aeb",
+          "title": "Here receipt from 2018-02-18",
+          "excerpt": "Here's what the #ETHDenver diamond looks like post-event! I spy, with my little eye...\n\n@ConsenSys @coinbase @MyCrypto @SaltLending @CipherBrowser @blockgeekdima @golemproject @gridplus_energy @poanetwork @Quantstamp @blockapps @AragonProject @EthereumDenver \n\n\"TRUST\" \n\n\"Tacocat\"",
+          "source_document_id": "965373066132926464",
+          "timestamp": "2018-02-18T23:50:49+00:00",
+          "url": "https://x.com/rhyslindmark/status/965373066132926464",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, thanks, should, other."
+        },
+        {
+          "id": "art_b49846d3c3a0",
+          "title": "Here receipt from 2024-10-07",
+          "excerpt": "@natpmanning @calebwatney Came here to say this. The Chinese y-axis is hilariously short",
+          "source_document_id": "1843348090646081855",
+          "timestamp": "2024-10-07T17:50:07+00:00",
+          "url": "https://x.com/rhyslindmark/status/1843348090646081855",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, thanks, should, other."
+        },
+        {
+          "id": "art_1753d22c69e7",
+          "title": "Here receipt from 2019-07-17",
+          "excerpt": ".@La__Cuen continues the most important reporting in crypto.\n\nWhile others cover Bitcoin ETFs, DeFi, etc, Leigh demystifies the unbanked narrative by interviewing marginalized folks around the world.\n\nA reminder of why we're here, and a voice for those whom we should listen. 🙌❤️ https://t.co/61KI6PsnkZ",
+          "source_document_id": "1151308204380499968",
+          "timestamp": "2019-07-17T01:50:40+00:00",
+          "url": "https://x.com/rhyslindmark/status/1151308204380499968",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, thanks, should, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7337ac41222b",
+      "proof_score": 0.992,
+      "mass": 28.955,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_bc21d340c077",
+      "name": "Great",
+      "summary": "Archive cluster around great: 590 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "great",
+        "work",
+        "think",
+        "overview",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b80f2b03e603",
+          "title": "Great receipt from 2018-08-06",
+          "excerpt": "This is a great iteration in the @ETHGlobal ecosystem—use dApps for the event itself:\n\n-@LivepeerOrg streaming\n-@ethstatus messaging\n-@gnosisPM audience voting\n-@goblockparty ticketing\n-@windingtree hotels\n\nFuture: Juicy dApp ideas will have crypto events as early adopters #BUIDL https://t.co/uNN2Wn4C8J",
+          "source_document_id": "1026465334717493250",
+          "timestamp": "2018-08-06T13:49:41+00:00",
+          "url": "https://x.com/rhyslindmark/status/1026465334717493250",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: great, work, think, overview."
+        },
+        {
+          "id": "art_8cf72d42687d",
+          "title": "Great receipt from 2021-11-30",
+          "excerpt": "WAGMI means we're *all* going to make it.\n\nAll means all. That includes the 750M people still in extreme poverty (in red below).\n\nLearn how to turn your magic internet money into impact. Thursday at 5pm ET. With a great crew: @SBF_FTX @hosseeb @PeterSinger @ArthurB @laurashin. https://t.co/cmwFJYn6HD https://t.co/ny9lW3GuTs",
+          "source_document_id": "1465508877290532868",
+          "timestamp": "2021-11-30T02:31:58+00:00",
+          "url": "https://x.com/rhyslindmark/status/1465508877290532868",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: great, work, think, overview."
+        },
+        {
+          "id": "art_3ce7a43ae85c",
+          "title": "Great receipt from 2018-05-04",
+          "excerpt": "5/1 @iurimatias, the lead dev at Embark, announces that they've been funded by @ethstatus! Congrats! (And wow, Status just keeps funding great infrastructure for the ecosystem.)\n\n#EdCon https://t.co/XaXsWZMaZR",
+          "source_document_id": "992408146852368387",
+          "timestamp": "2018-05-04T14:18:34+00:00",
+          "url": "https://x.com/rhyslindmark/status/992408146852368387",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: great, work, think, overview."
+        },
+        {
+          "id": "art_6b6cc0142daf",
+          "title": "Great receipt from 2021-09-02",
+          "excerpt": "Just saw @TheGivingBlock's #CryptoGivingPledge. It's great! I just pledged to donate 1% of my crypto to @GiveDirectly.\n\nJoin the crew of pledgers: @hosseeb @twobitidiot @theklineventure @tonysheng @Melt_Dem @FTX_Official and, ofc, @tonyhawk.\n\nPlus get money off on your taxes :)",
+          "source_document_id": "1433526218402394112",
+          "timestamp": "2021-09-02T20:24:18+00:00",
+          "url": "https://x.com/rhyslindmark/status/1433526218402394112",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: great, work, think, overview."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c89abe73262e",
+      "proof_score": 0.988,
+      "mass": 28.58,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_4c8dec987522",
+      "name": "Think",
+      "summary": "Archive cluster around think: 468 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "should",
+        "don",
+        "now",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_db3a01ad9a6e",
+          "title": "Think receipt from 2019-02-17",
+          "excerpt": "16/ @hudsonjameson's pragmatic q: \"What do you think of Ethereum's current governance, esp. on big decisions?\"\n\n@aantonop I've listened on some Core Dev calls. I like that no one differs to authority. Also, in ETH, devs have more power than miners. (Not clear in BTC.)\n\n#ETHDenver",
+          "source_document_id": "1096964952701558784",
+          "timestamp": "2019-02-17T02:50:00+00:00",
+          "url": "https://x.com/rhyslindmark/status/1096964952701558784",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, don, now."
+        },
+        {
+          "id": "art_9ed217ae6ad6",
+          "title": "Think receipt from 2023-02-24",
+          "excerpt": "Amazing 3D biology animations.\n\nTo think we only had 2D static pictures 10 years ago. 📈 https://t.co/VfjCoBSZC6",
+          "source_document_id": "1629235217151201281",
+          "timestamp": "2023-02-24T21:42:00+00:00",
+          "url": "https://x.com/rhyslindmark/status/1629235217151201281",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, don, now."
+        },
+        {
+          "id": "art_0849f51fea03",
+          "title": "Think receipt from 2018-02-17",
+          "excerpt": "I think I said \"thanks\" close to 250 times today. :)\n\n#gratitude #ETHDenver @EthereumDenver",
+          "source_document_id": "964774622288891905",
+          "timestamp": "2018-02-17T08:12:49+00:00",
+          "url": "https://x.com/rhyslindmark/status/964774622288891905",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, don, now."
+        },
+        {
+          "id": "art_b2f5a5f62532",
+          "title": "Think receipt from 2018-02-13",
+          "excerpt": "In general, I think of #ETHDenver as \"Iteration 2\" of @ETHGlobal. Hoping to provide future events w/ experimentation on:\n\n1/ Pre-hack workshops\n2/ Local community integration\n3/ Size\n4/ Bounties\n5/ Diversity\n6/ Impact\n7/ Governance\n8/ Art, Storytelling, Games\n9/ Systems Thinking https://t.co/2rEVovSlRL",
+          "source_document_id": "963261907921616896",
+          "timestamp": "2018-02-13T04:01:50+00:00",
+          "url": "https://x.com/rhyslindmark/status/963261907921616896",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, should, don, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6c7932992b09",
+      "proof_score": 0.965,
+      "mass": 28.638,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
